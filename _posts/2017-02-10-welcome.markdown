@@ -1,0 +1,17 @@
+---
+layout: default
+title:  "Welcome"
+date:   2017-02-10 12:18:37 -0500
+categories: blog
+tags: welcome
+---
+
+Basic involvement in our group looks like this:
+
+1. Make a call (or write a letter, email, or fax). You are now a part of our email list and you will receive call prompts from us regularly. You can also use the tool at [5 Calls][5calls] if you need a prompt.
+
+2. Get others involved. If you have friends who are afraid or angry at the direction our government is taking, tell them about us. You're doing them a favor to get them involved so they can put their energy to good use.
+
+In addition to these basic tasks, calling and recruiting, we will also be holding regular meetings and coordinating with other groups in the Chattanooga area and across Tennessee.  There will be opportunities to rally, visit our members of Congress in person, and volunteer with other groups.
+
+[5calls]: http://www.5calls.org/
