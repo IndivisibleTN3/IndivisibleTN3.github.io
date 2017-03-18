@@ -4,6 +4,7 @@ layout: default
 
 We are following [this guide][guide]. It was written by former Congressional staffers and provides a strategy for having maximum impact through contact with our US senators and representative.
 
+Email <IndivisibleTN3@gmail.com> to contact the coalition directly.
 
 ## Find a group and join the movement! ##
 
