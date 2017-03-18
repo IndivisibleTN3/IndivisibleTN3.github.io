@@ -16,8 +16,8 @@
 title: Indivisible TN-3
 email: indivisibleTN3@googlegroups.com
 description: > # this means to ignore newlines until "baseurl:"
-  We are one of Tennessee's District 3 Indivisible groups, 
-  part of a grassroots effort to oppose Donald Trump's damaging agenda.
+  We are a coalition of Tennessee's District 3 Indivisible groups, part of a grassroots effort to oppose Donald Trump's damaging agenda.
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.indivisibleTN3.org" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
