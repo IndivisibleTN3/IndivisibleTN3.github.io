@@ -22,7 +22,7 @@ We meet once a month at different members' homes in Chattanooga.  Being a member
 
 #### Indivisible TN3 (Signal Mountain) ####
 
-Our group meets monthly on Signal Mountain.  Basic involvement means making calls or writing letters to our representatives and recruiting others to do the same.  We also work with other groups in the Chattanooga area and across the state on various initiatives to resist the Trump agenda. When you join our group, you will get to know your like-minded neighbors, and can also help direct the activities our group takes on. You will have a voice with us.  If you'd like to join us, you can find us on [Facebook][fb], or join our [Discussion Group][group].
+Our group meets monthly on Signal Mountain.  Basic involvement means making calls or writing letters to our representatives and recruiting others to do the same.  We also work with other groups in the Chattanooga area and across the state on various initiatives to resist the Trump agenda. When you join our group, you will get to know your like-minded neighbors, and can also help direct the activities our group takes on. You will have a voice with us.  [Join our Discussion Group][group].
 
 -------------
 
@@ -53,7 +53,7 @@ Our focus is educating each other about issues, visiting the offices of Members 
 [group]: https://groups.google.com/forum/#!forum/IndivisibleTN3
 
 
-## [](#blog)Posts
+<!-- ## [](#blog)Posts
 
 {% for post in site.posts %}
 
@@ -63,4 +63,4 @@ Our focus is educating each other about issues, visiting the offices of Members 
 
 {{ post.excerpt }}[...]({{ post.url }})
 
-{% endfor %}
+{% endfor %} -->
