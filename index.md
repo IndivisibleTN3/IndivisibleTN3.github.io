@@ -45,7 +45,13 @@ We are organized to resist the Trump administration’s regressive agenda.  We s
 
 #### Norris Area Indivisible ####
 
-Our focus is educating each other about issues, visiting the offices of Members of Congress, writing letters, and spreading information about and attending events.  We meet the first and third Wednesday at noon at Apollo Restaurant (7 West Norris Road, Norris, TN).
+Our focus is educating each other about issues, visiting the offices of Members of Congress, writing letters, and spreading information about and attending events.  We meet the first Wednesday at noon and Third Wednesday at 7 PM at Apollo Restaurant (7 West Norris Road, Norris, TN).  Contact [Liz McGeachy](mailto:lizmcgeachy@gmail.com) for more information.
+
+-------------
+
+#### Indivisible Chattanooga (Facebook and Twitter only) ####
+
+We are an online-only group offering call prompts and letter scripts.  We also promote other groups' postings, meetings and events, so that we can reach a large audience of concerned citizens who want to be informed about resistance activities.  Join us on [Facebook](https://www.facebook.com/groups/385383311813519/) and on follow us on [Twitter](https://twitter.com/IndivisibleCHA).
 
 
 [guide]: https://www.indivisibleguide.com
