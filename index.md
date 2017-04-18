@@ -53,6 +53,13 @@ Our focus is educating each other about issues, visiting the offices of Members 
 
 We are an online-only group offering call prompts and letter scripts.  We also promote other groups' postings, meetings and events, so that we can reach a large audience of concerned citizens who want to be informed about resistance activities.  Join us on [Facebook](https://www.facebook.com/groups/385383311813519/) and on follow us on [Twitter](https://twitter.com/IndivisibleCHA).
 
+-------------
+
+#### Indivisible East TN Roane-Meigs ####
+
+We strive to be a politically diverse, bi-partisan group with a single point focus on counteracting the Trump agenda. Join our [Facebook group](https://www.facebook.com/groups/1097624493682107/) to get involved.
+
+
 
 [guide]: https://www.indivisibleguide.com
 [fb]: https://www.facebook.com/indivisibletn3/
